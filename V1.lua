@@ -120,4 +120,9 @@ local Toggle = MainTab:CreateToggle({
 
 
 
+local MainTab = MainWindow:CreateTab("Combat", "swords")
+--COMBAT TAB--
 
+local MainTab = MainWindow:CreateTab("ESP", "eye")
+
+--ESP TAB--
